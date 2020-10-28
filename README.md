@@ -1,4 +1,4 @@
-## Welcome to awesome game of Tetris
+## Welcome to awesome game of i don't really know what you want from me over here mister github
 
 A project based learning activity for people who are getting started with Git and GitHub.
 
